@@ -1,4 +1,4 @@
-🛍️ Full Stack E-Commerce Web Application
+**🛍️ Full Stack E-Commerce Web Application**
 A complete MERN (MongoDB, Express, React, Node.js) based E-Commerce platform featuring a dynamic user interface, admin panel, cart functionality, and secure authentication system. This application consists of three main modules – Frontend, Backend, and Admin Panel – seamlessly integrated to simulate a real-world shopping experience.
 
 🔧 Project Modules

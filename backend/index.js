@@ -12,8 +12,9 @@ const { log } = require("console");
 app.use(express.json());
 app.use(cors());
 
-// Database Connection with MongoDB
-mongoose.connect("mongodb+srv://User:Password123@cluster0.fhtjr8v.mongodb.net/e-commerce")
+MONGODB_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/ecommerce
+JWT_SECRET=your_jwt_secret
+PORT=5000
 
 //API Creation
 
